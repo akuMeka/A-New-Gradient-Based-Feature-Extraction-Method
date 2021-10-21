@@ -1,2 +1,2 @@
 # Gradient-Based-Feature-Extraction-
-A New Gradient-Based Feature Extraction Method for Real-Time Detection of Moving Objects Using Stereo Cameras
+This project is about classifying objects from an UGV using GPS coordinates and NN method.
