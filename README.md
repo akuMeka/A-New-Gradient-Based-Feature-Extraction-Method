@@ -1,2 +1,2 @@
-# GPS assisted object classifying
-This project is about classifying objects from an UGV using GPS coordinates and NN method.
+# A new gradient-based feature extraction method
+This project is about extracting features based on pixel gradients
